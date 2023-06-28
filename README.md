@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Efrat Asulin
+## I'm a mother, a dancer and an analytical thinker✨
 
-<!--
-**EfratAK/EfratAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a BI developer at the electric corporation.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate mainly on topics related to:
+>-Statistical models\
+-Big data technologies\
+-Coding with Python\
+-Clustering algorithms and other classification models\
+-ML concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and more.. stay with me 😉
+
+🥅 2023 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
+
+⚡ Fun fact: “Time spent with cats is never wasted.” guess who? 
+
+***Thanks for visit my profile.***
